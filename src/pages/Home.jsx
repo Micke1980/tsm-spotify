@@ -13,11 +13,11 @@ const Home = () => {
 				gap: 5
 			}}
 		>
-			<img src="/profile-pic.png" style={{ maxHeight: '50%', maxWidth: '50%' }} alt="Techover" />
+			<img src="/profile-pic.png" alt="Mikael Tuvesson" style={{ maxHeight: '50%', maxWidth: '50%' }} alt="Techover" />
 			<Button
 				size="large"
 				variant="contained"
-				onClick={() => (window.location.href = 'https://starlit-malasada-a9cd7b.netlify.app/')}
+				onClick={() => (window.location.href="mailto:tm_mike@hotmail.com")}
 			>
 				Kontakta Mig
 			</Button>

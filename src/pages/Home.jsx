@@ -13,7 +13,7 @@ const Home = () => {
 				gap: 5
 			}}
 		>
-			<img src="/profile-pic.png" alt="Mikael Tuvesson" style={{ maxHeight: '50%', maxWidth: '50%' }} alt="Techover" />
+			<img src="/profile-pic.png" alt="Mikael Tuvesson" style={{ maxHeight: '50%', maxWidth: '50%' }} />
 			<Button
 				size="large"
 				variant="contained"
